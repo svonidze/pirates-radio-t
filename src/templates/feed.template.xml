@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+	<channel>
+		<title>Пираты-РТ</title>
+		<link>http://pirates.radio-t.com/</link>
+		<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/pirate-radio-t" />
+		<language>en</language>
+		<managingEditor>noemail@noemail.org (Umputun, Bobuk, Ksenks, Grаy)</managingEditor>
+		<lastBuildDate>Sat, 02 May 2020 17:21:02 PDT</lastBuildDate>
+		<generator>Hugo</generator>
+		<feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="pirate-radio-t" />
+		<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" />
+		<description>То, что происходит после записи Радио-Т</description>
+		<media:thumbnail url="http://pirates.radio-t.com/images/pirates-logo-big.jpg" />
+		<media:keywords>radiot,радио,пираты</media:keywords>
+		<media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
+		<itunes:owner>
+			<itunes:email>podcast@radio-t.com</itunes:email>
+			<itunes:name>Umputun, Bobuk, Gray, Ksenks, Alek.sys</itunes:name>
+		</itunes:owner>
+		<itunes:author>Umputun, Bobuk, Gray, Ksenks, Alek.sys</itunes:author>
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:image href="http://pirates.radio-t.com/images/pirates-logo-big.jpg" />
+		<itunes:keywords>radiot,радио,пираты</itunes:keywords>
+		<itunes:subtitle>Пираты Радио-Т</itunes:subtitle>
+		<itunes:summary>После-шоу Радио-РТ</itunes:summary>
+		<itunes:category text="Technology">
+			<itunes:category text="Tech News" />
+		</itunes:category>
+		{0}
+		<media:credit role="author">Umputun, Bobuk, Gray</media:credit>
+		<media:rating>adult</media:rating>
+		<media:description type="plain">Пираты Радио-Т</media:description>
+	</channel>
+</rss>

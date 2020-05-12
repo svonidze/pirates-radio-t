@@ -1,0 +1,16 @@
+		<item>
+			<title>{Title}</title>
+			<link>{Url}</link>
+			<pubDate>{PubDate}</pubDate>
+			<guid isPermaLink="false">{Url}</guid>
+			<description>&lt;p&gt;&lt;a href="{AudioUrl}"&gt;аудио&lt;/a&gt; ● &lt;a href="{ChatUrl}"&gt;лог чата&lt;/a&gt;
+&lt;audio src="{AudioUrl}" preload="none"/&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/pirate-radio-t/~4/ZQH5LZ3r190" height="1" width="1" alt=""/&gt;</description>
+			<author>podcast@radio-t.com (Umputun, Bobuk, Gray)</author>
+			<enclosure url="{AudioUrl}" length="18920196" type="audio/mpeg" />
+			<media:content url="{AudioUrl}" fileSize="18920196" type="audio/mpeg" />
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:subtitle> аудио ● лог чата </itunes:subtitle>
+			<itunes:author>Umputun, Bobuk, Gray</itunes:author>
+			<itunes:summary> аудио ● лог чата </itunes:summary>
+			<itunes:keywords>radiot,радио,пираты</itunes:keywords>
+		</item>
