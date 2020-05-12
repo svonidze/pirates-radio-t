@@ -14,7 +14,7 @@ string feedItemXmlTemplateFilePath = @"src\templates\feed-item.template.xml";
 
 string allPostsUrl = @"http://pirates.radio-t.com/posts/";
 string audioUrlFormat = @"http://cdn.radio-t.com/rt{0}post.mp3";
-string chatUrlFormat = @"http://chat.radio-t.com/logs/radio-t-{0}.html"
+string chatUrlFormat = @"http://chat.radio-t.com/logs/radio-t-{0}.html";
 
 string xPathToArticles = @"/html/body/div[1]/div/div/article/div";
 
@@ -70,8 +70,9 @@ int? ExtractNumber(string input)
 	return null;
 }
 
-DateTime FixDateTime(string input)
+string FixDateTime(string input)
 {
 	//2020-05-02T57:29:29&#43;00:00
-	return DateTime.Parse(input.Split("T").First());
+	//return input.Replace("&#43;", "+");
+	return input.Split("T").First();
 }
