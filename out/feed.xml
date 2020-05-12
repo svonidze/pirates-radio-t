@@ -269,21 +269,21 @@
 		</item>
 		<item>
 			<title>После РТ 91</title>
-			<link>http://pirates.radio-t.com/p/2017/03/11/podcast-91/</link>
-			<pubDate>Sat, 11 Mar 2017 05:59:00 PST</pubDate>
-			<guid isPermaLink="false">http://pirates.radio-t.com/p/2017/03/11/podcast-91</guid>
+			<link>http://pirates.radio-t.com/p/2008/06/23/podcast-91/</link>
+			<pubDate>Sat, 23 Jun 2008 00:00:00 PST</pubDate>
+			<guid isPermaLink="false">http://pirates.radio-t.com/p/2008/06/23/podcast-91</guid>
 			<description>&lt;p&gt;&lt;a href="http://cdn.radio-t.com/rt91post.mp3"&gt;аудио&lt;/a&gt; ● &lt;a href="http://chat.radio-t.com/logs/radio-t-91.html"&gt;лог чата&lt;/a&gt;
 &lt;audio src="http://cdn.radio-t.com/rt91post.mp3" preload="none"/&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/pirate-radio-t/~4/ZQH5LZ3r190" height="1" width="1" alt=""/&gt;</description>
-			<author>podcast@radio-t.com (Umputun, Bobuk, Gray, Ksenks, Alek.sys)</author>
+			<author>podcast@radio-t.com (Umputun, Bobuk, Gray)</author>
 			<enclosure url="http://cdn.radio-t.com/rt91post.mp3" length="18920196" type="audio/mpeg" />
 			<media:content url="http://cdn.radio-t.com/rt91post.mp3" fileSize="18920196" type="audio/mpeg" />
 			<itunes:explicit>yes</itunes:explicit>
 			<itunes:subtitle> аудио ● лог чата </itunes:subtitle>
-			<itunes:author>Umputun, Bobuk, Gray, Ksenks, Alek.sys</itunes:author>
+			<itunes:author>Umputun, Bobuk, Gray</itunes:author>
 			<itunes:summary> аудио ● лог чата </itunes:summary>
 			<itunes:keywords>radiot,радио,пираты</itunes:keywords>
 		</item>
-		<media:credit role="author">Umputun, Bobuk, Gray, Ksenks, Alek.sys</media:credit>
+		<media:credit role="author">Umputun, Bobuk, Gray</media:credit>
 		<media:rating>adult</media:rating>
 		<media:description type="plain">Пираты Радио-Т</media:description>
 	</channel>
